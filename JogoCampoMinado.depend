@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1520697091 source:c:\users\brdafro\desktop\aula05-jogo_campo_minado-dia02\jogocampominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+
+1521299452 source:c:\d\fatec-atual\2018sem1_jd-progii\aulas\aula06-jogo_campo_minado-dia03\jogocampominado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<time.h>
+
